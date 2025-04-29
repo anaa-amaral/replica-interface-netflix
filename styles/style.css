@@ -6,5 +6,12 @@ body{
 
 .textosuperiormeio{
     font-size: medium;    
-    text-align: center;
+    position: fixed;
+    padding-left: 150px;
+}
+
+.textosuperiordireito{
+    font-size: small;
+    padding-left: 340px;
+    padding-bottom: 15px;
 }
