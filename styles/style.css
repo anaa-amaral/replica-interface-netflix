@@ -4,6 +4,10 @@ body{
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
 
+.textosuperior{
+    align-items: center;
+}
+
 .textosuperiormeio{
     font-size: medium;    
     position: fixed;
@@ -13,5 +17,5 @@ body{
 .textosuperiordireito{
     font-size: small;
     padding-left: 340px;
-    padding-bottom: 15px;
+    padding-top: 15px;
 }
