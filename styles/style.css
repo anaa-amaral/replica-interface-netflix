@@ -26,10 +26,7 @@ img{
     margin: 3px;
 }
 
-.fotoPerfil1{
-    padding-left: 100px;
-}
-
-.fotoPerfil3{
-    padding-left: 100px;
+.perfil{
+    text-align: center;
+    margin: 50% 10% 10% 10%;
 }
