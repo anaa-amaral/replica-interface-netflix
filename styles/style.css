@@ -38,6 +38,10 @@ img{
 
 .textosuperior2{
     align-items: center;
+    background-color:rgb(49, 49, 49);
+    padding-bottom: 1000px;
+    border-radius: 30px;
+    margin-top: 40px;
 }
 
 .textosuperiormeio2{
