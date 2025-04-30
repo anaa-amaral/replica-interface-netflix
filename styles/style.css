@@ -28,5 +28,10 @@ img{
 
 .perfil{
     text-align: center;
-    margin: 50% 10% 10% 10%;
+    margin: 45% 25% 25% 25%;
+    display: flex;
+}
+
+.legenda{
+    font-size: x-small;
 }
