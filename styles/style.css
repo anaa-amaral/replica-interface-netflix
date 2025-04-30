@@ -133,13 +133,38 @@ img{
     margin: 3% 38% 2% 38%;
 }
 
-.info{
+.pin{
     background-color: rgb(75, 74, 74);
     border: 0px;
     border-style: solid;
+    font-size: small;
     border-radius: 10px;
     margin-top: 10px;
     margin-left: 20px;
     margin-right: 20px;
     display: flex;
+}
+
+.pin1{
+    background-color: rgb(105, 104, 104);
+    margin: 10px;
+    padding: 10px;
+}
+
+.pin2{
+    background-color: rgb(105, 104, 104);
+    margin: 10px;
+    padding: 10px;
+}
+
+.pin3{
+    background-color: rgb(105, 104, 104);
+    margin: 10px;
+    padding: 10px;
+}
+
+.pin4{
+    background-color: rgb(105, 104, 104);
+    margin: 10px;
+    padding: 10px;
 }
