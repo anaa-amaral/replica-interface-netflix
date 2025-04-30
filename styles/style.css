@@ -124,5 +124,11 @@ img{
 .alteracao{
     font-size: x-small;
     color: rgb(121, 121, 121);
-    margin: 3% 12% 12% 12%;
+    margin: 3% 12% 2% 12%;
+}
+
+.exclui{
+    font-size: small;
+    color: rgb(173, 173, 173);
+    margin: 3% 38% 2% 38%;
 }
