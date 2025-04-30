@@ -35,3 +35,19 @@ img{
 .legenda{
     font-size: x-small;
 }
+
+.textosuperior2{
+    align-items: center;
+}
+
+.textosuperiormeio2{
+    font-size: medium;    
+    position: fixed;
+    padding-left: 150px;
+}
+
+.textosuperiordireito2{
+    font-size: small;
+    padding-left: 340px;
+    padding-top: 15px;
+}
