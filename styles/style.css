@@ -102,3 +102,27 @@ img{
     font-size: x-small;
     padding-bottom: 10px;
 }
+
+.cima1{
+    color: rgb(214, 138, 138);
+    font-size: small;
+    padding-top: 5px;
+}
+
+.baixo1{
+    color: rgb(214, 138, 138);
+    font-size: x-small;
+    padding-bottom: 10px;
+}
+
+.emoji{
+    font-size: x-large;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.alteracao{
+    font-size: x-small;
+    color: rgb(121, 121, 121);
+    margin: 3% 12% 12% 12%;
+}
