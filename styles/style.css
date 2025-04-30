@@ -62,4 +62,18 @@ img{
 
 .nomePerfil{
     font-size: x-small;
+    color: dimgray;
+    border: 1px;
+    border-style: solid;
+    border-radius: 20px;
+}
+
+.NomePerfil1{
+    color: rgb(151, 151, 151);
+    margin: 2% 4% 2% 4%;
+}
+
+.NomePerfil2{
+    color: white;
+    margin: 2% 4% 2% 4%;
 }
