@@ -132,3 +132,14 @@ img{
     color: rgb(173, 173, 173);
     margin: 3% 38% 2% 38%;
 }
+
+.info{
+    background-color: rgb(75, 74, 74);
+    border: 0px;
+    border-style: solid;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    display: flex;
+}
