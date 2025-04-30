@@ -94,25 +94,25 @@ img{
 .cima{
     color: rgb(255, 255, 255);
     font-size: small;
-    padding-top: 5px;
+    padding-top: 2px;
 }
 
 .baixo{
     color: rgb(177, 176, 176);
     font-size: x-small;
-    padding-bottom: 10px;
+    padding-bottom: 2px;
 }
 
 .cima1{
     color: rgb(214, 138, 138);
     font-size: small;
-    padding-top: 5px;
+    padding-top: 2px;
 }
 
 .baixo1{
     color: rgb(214, 138, 138);
     font-size: x-small;
-    padding-bottom: 10px;
+    padding-bottom: 2px;
 }
 
 .emoji{
